@@ -1,1 +1,1 @@
-web: python hell.py
+worker: python hell.py
